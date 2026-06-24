@@ -1,4 +1,4 @@
-# Gestio Mine
+# GestioMine
 
 **Integrantes:**
 - André Ramos Bragança
